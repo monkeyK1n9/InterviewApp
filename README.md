@@ -4,7 +4,7 @@ This is the react native project for K-tronik interview. It is built with expo r
 
 | Login Screen                                           | Home Screen                                           |
 | ------------------------------------------------------ | ----------------------------------------------------- |
-| ![Login]("../../src/assets/Screenshot_1675262587.png") | ![Home]("../../src/assets/Screenshot_1675262595.png") |
+| ![Login](https://user-images.githubusercontent.com/91855362/216076363-d60d0a25-11ef-4187-87d9-bf3b00d81267.png) | ![Home](https://user-images.githubusercontent.com/91855362/216076462-aa9cf218-3eff-4cfd-88b8-88d0de73c1d2.png) |
 
 ## Introduction
 
