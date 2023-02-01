@@ -33,7 +33,7 @@ Now you are good to go.
 ## Connecting to the database
 
 To connect your app to the database, make sure you have a .env file in your project.
-If you don't have a .env file, create one, and provide the required parameters. You can have a look at the model of the ![.env.example]("./env.example")
+If you don't have a .env file, create one, and provide the required parameters. You can have a look at the model of the [example](.env.example)
 
 ```js
 FIREBASE_APIKEY =
